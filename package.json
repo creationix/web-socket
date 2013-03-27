@@ -1,0 +1,7 @@
+{
+  "name": "web-socket",
+  "version": "0.0.0",
+  "peerDependency": {
+    "web": "*"
+  }
+}
